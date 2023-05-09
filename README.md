@@ -14,6 +14,7 @@ Welcome to this super cool, free-to-use, and open-source stress testing tool for
 
 - Python 3.x (who doesn't love Python?🐍)
 - Selenium (our automation buddy)
+- Google Chrome Browser
 - ChromeDriver compatible with your installed Google Chrome version
 
 ## 🚀 Getting Started
