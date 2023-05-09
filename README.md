@@ -12,6 +12,7 @@ Welcome to this super cool, free-to-use, and open-source stress testing tool for
 
 ## 🛠️ Requirements
 
+- Windows Operating System ⚠️
 - Python 3.x (who doesn't love Python?🐍)
 - Selenium (our automation buddy)
 - ChromeDriver compatible with your installed Google Chrome version
