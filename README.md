@@ -19,7 +19,7 @@ Welcome to this super cool, free-to-use, and open-source stress testing tool for
 
 ## 🚀 Getting Started
 
-1. Install Python 3.x from the [official website](https://www.python.org/downloads/) if you haven't already.
+1. Install Python 3.x from the [official website](https://www.python.org/downloads/){:target="_blank"} if you haven't already.
 
 2. Install the Selenium package using pip like a boss:
 
@@ -27,7 +27,7 @@ Welcome to this super cool, free-to-use, and open-source stress testing tool for
 pip install selenium
 ```
 
-3. Download the right version of [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) that plays nice with your installed Google Chrome version. Extract the `chromedriver.exe` file and place it in the same directory as the stress test script.
+3. Download the right version of [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads){:target="_blank"} that plays nice with your installed Google Chrome version. Extract the `chromedriver.exe` file and place it in the same directory as the stress test script.
 
 ## 🎮 Usage
 
@@ -58,6 +58,6 @@ Feel free to tweak the script to better suit your needs or to add some shiny new
 
 ## 📜 License
 
-This project is free to use and modify under the MIT License. Check out the [LICENSE](LICENSE) file for more information.
+This project is free to use and modify under the MIT License. Check out the [LICENSE](LICENSE){:target="_blank"} file for more information.
 
 Happy testing! 🥳🚀
