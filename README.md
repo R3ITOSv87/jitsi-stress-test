@@ -93,7 +93,7 @@ python jitsi_stress_test.py
 3. Follow the prompts to tailor the stress test to your needs:
 
 - Enter the Jitsi Meet server address (e.g. `https://meet.jit.si`).
-- Enter the number of sessions to simulate (go wild!).
+- Enter the number of sessions to simulate (Don´t go wild or your CPU will Burn🔥🧯!).
 - Enter the runtime in seconds for the stress test.
 - Choose the media option (1 - Video and Audio [default], 2 - Video only, 3 - Audio only, 4 - None).
 
