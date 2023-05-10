@@ -82,7 +82,7 @@ That's it! You've successfully installed Python 3, Node.js, PIP, and Selenium on
 
 ## 🎮 Usage
 
-1. Fire up a command prompt or terminal in the directory containing the stress test script.
+1. Fire up a command prompt or terminal in the directory containing this repository.
 
 2. Run the script using Python:
 
