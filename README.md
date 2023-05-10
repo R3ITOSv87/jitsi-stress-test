@@ -1,6 +1,6 @@
 # 🚀 Jitsi Meet Stress Test Tool 🎉
 
-Welcome to this super cool, free-to-use, and open-source stress testing tool for Jitsi Meet, specifically designed to run on Windows operating systems. The tool leverages the power of Selenium and ChromeDriver to simulate a bunch of users joining a Jitsi Meet conference, allowing you to see how your Jitsi Meet server performs under various loads. Pretty neat, huh? 😎
+Welcome to this open-source stress testing tool for Jitsi Meet, specifically designed to run on Windows operating systems. The tool leverages the power of Selenium and ChromeDriver to simulate a bunch of users joining a Jitsi Meet conference, allowing you to see how your Jitsi Meet server performs under various loads. Pretty neat, huh? 😎
 
 ## 🌟 Features
 
