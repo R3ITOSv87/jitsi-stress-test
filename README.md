@@ -19,15 +19,66 @@ Welcome to this super cool, free-to-use, and open-source stress testing tool for
 
 ## 🚀 Getting Started
 
-1. Install Python 3.x from the [official website](https://www.python.org/downloads/) if you haven't already.
+### Downloading ChromeDriver
 
-2. Install the Selenium package using pip like a boss:
+Download the right version of [ChromeDriver](https://sites.google.com/chromium.org/driver/) that plays nice with your installed Google Chrome version. Extract the `chromedriver.exe` file and place it in the same directory as the stress test script.
 
-```bash
+### Installing Python 3.x on Windows
+
+1. Visit the official Python website at [https://www.python.org/downloads/](https://www.python.org/downloads/) and download the latest version of Python 3.x for Windows if you havent already.
+
+2. Run the installer, and during the setup process, make sure to check the "Add Python to PATH" checkbox before clicking on "Install Now."
+
+3. Once the installation is complete, open the Command Prompt and run the following command to check if Python is installed successfully:
+
+```
+python --version
+```
+
+You should see the Python version in the output.
+
+### Installing Node.js on Windows
+
+1. Download the latest LTS version of Node.js from the official website at [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
+
+2. Run the installer, and follow the on-screen instructions. The installer will automatically add Node.js and NPM (Node Package Manager) to your PATH.
+
+3. After the installation is complete, open the Command Prompt and run the following commands to check if Node.js and NPM are installed correctly:
+
+```
+node --version
+npm --version
+```
+
+You should see the Node.js and NPM versions in the output.
+
+## Installing PIP (Python Package Installer)
+
+PIP should already be installed with Python 3.4 and later versions. To check if PIP is installed, open the Command Prompt and run:
+
+```
+pip --version
+```
+
+If PIP is not installed or you want to upgrade it, download the `get-pip.py` file from [https://bootstrap.pypa.io/get-pip.py](https://bootstrap.pypa.io/get-pip.py) and save it to your computer.
+
+Then, open the Command Prompt, navigate to the folder where you saved the `get-pip.py` file, and run the following command:
+
+```
+python get-pip.py
+```
+
+PIP will be installed or upgraded to the latest version.
+
+### Installing the Selenium Package
+
+Now that you have Python, Node.js, and PIP installed, you can install the Selenium package. Open the Command Prompt and run:
+
+```
 pip install selenium
 ```
 
-3. Download the right version of [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads) that plays nice with your installed Google Chrome version. Extract the `chromedriver.exe` file and place it in the same directory as the stress test script.
+That's it! You've successfully installed Python 3, Node.js, PIP, and Selenium on your Windows machine. Time to rock. 🚀
 
 ## 🎮 Usage
 
